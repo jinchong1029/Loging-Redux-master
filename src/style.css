@@ -1,0 +1,16 @@
+.login-form {
+  margin-top: 50px;
+}
+
+.ui.vertical.menu .item>i.icon {
+  float: left;
+  margin-right: 0.5rem;
+}
+
+.main-content {
+  margin-left: 15em;
+}
+
+.content {
+  padding: 2em;
+}
